@@ -1,15 +1,15 @@
 # Bangun-Model-Deep-Learning
 Belajar AI di Node.js 🔥 Bangun Model Deep Learning dengan TensorFlow.js dari Nol
 
-1. **Pendahuluan**
-2. **Persiapan lingkungan**
-3. **Dataset Fashion MNIST**
-4. **Membangun model dengan TensorFlow\.js**
-5. **Training & evaluasi**
-6. **Inference (prediksi gambar baru)**
-7. **Transfer Learning**
-8. **Kesimpulan**
-
+## 📑 Daftar Isi
+1. [Pendahuluan](#1-pendahuluan)  
+2. [Persiapan lingkungan](#2-persiapan-lingkungan)  
+3. [Dataset Fashion MNIST](#3-dataset-fashion-mnist)  
+4. [Membangun model dengan TensorFlow.js](#4-membangun-model-dengan-tensorflowjs)  
+5. [Training & evaluasi](#5-training--evaluasi)  
+6. [Inference (prediksi gambar baru)](#6-inference-prediksi-gambar-baru)  
+7. [Transfer Learning](#7-transfer-learning)  
+8. [Kesimpulan](#8-kesimpulan)
 ---
 
 # 📘 Tutorial Lengkap: Membangun Deep Learning dengan TensorFlow\.js di Node.js
